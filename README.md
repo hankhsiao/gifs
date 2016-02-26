@@ -1,4 +1,4 @@
-# Slider on Mobile Device Demo
+# Treadmil Slider on Mobile Device Demo
 
 ## Swipe page by page
 
